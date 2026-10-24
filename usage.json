@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/mdreports-docs",
+  "packageVersion": "0.4.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/mdreports-docs",
+  "usageRepository": "https://github.com/x12i-sdk/mdreports",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "List the bundled guides and read a use case",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:03:10.777807+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "8e7c483e0470b5c10f634c843eea01e8339f634e953e5e326fd90dfee537f8e6",
+    "manifestSha256": "47fdd088243e2010939060a08abb3917815d0eca31c07c5f2f6a2b1d58873bb4"
+  },
+  "npmPackages": [
+    "@x12i/mdreports-docs"
+  ],
+  "publisher": "x12i-publisher[bot]"
+}
